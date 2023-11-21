@@ -58,8 +58,10 @@ The IceCream Delights project meets the acceptance criteria, including the use o
 
 If you have any questions or need additional information, please contact me.
 
-Author: Damian Tchorzewski
+
 
 ## Screenshots
 
 <img width="100%" src="https://github.com/damtchorzewski/icecream/blob/main/assets/Home.jpg">
+
+Author: Damian Tchorzewski
